@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle react-prop-hunt",
+        "command": "react-prop-hunt:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "react-prop-hunt",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "react-prop-hunt:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

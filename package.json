@@ -1,0 +1,21 @@
+{
+  "name": "react-prop-hunt",
+  "main": "./lib/react-prop-hunt",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [],
+  "activationCommands": {
+    "atom-workspace": "react-prop-hunt:toggle"
+  },
+  "repository": "https://github.com/atom/react-prop-hunt",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "babel-core": "^6.26.3"
+  },
+  "devDependencies": {
+    "babel-plugin-transform-react-jsx": "^6.24.1"
+  }
+}
