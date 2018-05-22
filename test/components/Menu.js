@@ -4,7 +4,7 @@ import About from './About';
 import {
   BrowserRouter as Router,
   Route,
-  Link
+  Link,
 } from 'react-router-dom';
 
 export const Menu = () => (
