@@ -8,7 +8,7 @@ const myName = "Sarah";
 const About = () => (
   <div className="flex flex-column flex-align-items-center pad-30">
     <h2>About Me</h2>
-    <DisplayName name={myName} />
+    <DisplayName nameToDisplay={myName} />
 
     <img src={sarah} className="App-logo" alt="logo" />
 
