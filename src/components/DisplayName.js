@@ -10,6 +10,3 @@ export const DisplayName = ({ nameToDisplay }) => {
 };
 
 export default DisplayName;
-
-
-// var cat = "meow";
