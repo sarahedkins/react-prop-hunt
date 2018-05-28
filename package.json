@@ -2,10 +2,11 @@
   "name": "react-prop-hunt",
   "main": "./lib/react-prop-hunt",
   "version": "0.0.0",
-  "description": "A short description of your package",
-  "keywords": [],
+  "author": "Sarah Edkins <edkins.sarah@gmail.com>",
+  "description": "Find the value of a React component prop",
+  "keywords": ["react", "babel", "props"],
   "activationCommands": {
-    "atom-workspace": "react-prop-hunt:toggle"
+    "atom-workspace": "react-prop-hunt:hunt"
   },
   "repository": "https://github.com/atom/react-prop-hunt",
   "license": "MIT",
